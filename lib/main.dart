@@ -81,7 +81,7 @@ class MyApp extends StatelessWidget {
                 padding: EdgeInsets.fromLTRB(10.0, 0.0, 10.0, 0.0),
                 child: Text(
                   "Long time no see!",
-                  
+
                 ),
               ),
             ],
@@ -96,7 +96,7 @@ class MyApp extends StatelessWidget {
         body: ListView(
           children: [
             Image.asset(
-              'images/lake.jpeg',
+              'images/seattle.jpeg',
               width: 600,
               height: 240,
               fit: BoxFit.cover,
